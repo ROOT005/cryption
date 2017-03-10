@@ -1,4 +1,4 @@
-package lib
+package cryption
 
 import (
 	"crypto/rsa"
